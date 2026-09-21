@@ -1,0 +1,12 @@
+{
+  "name": "ichiban-site",
+  "private": true,
+  "type": "module",
+  "description": "ICHIBAN Restaurant, Burlington VT. Static site with a live HonorPOS menu function.",
+  "scripts": {
+    "sync-menu": "node scripts/sync-menu.mjs",
+    "build-pages": "python3 scripts/build-pages.py",
+    "dev": "python3 -m http.server 5178"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Hours & Directions | ICHIBAN, Burlington VT</title>
+  <meta name="description" content="Open 4:30pm to 2am, closed Wednesdays. 156 N Winooski Ave, Burlington, VT. Dine in, pickup or delivery.">
+  <meta property="og:title" content="Hours & Directions | ICHIBAN, Burlington VT">
+  <meta property="og:description" content="Open 4:30pm to 2am, closed Wednesdays. 156 N Winooski Ave, Burlington, VT. Dine in, pickup or delivery.">
+  <meta property="og:image" content="assets/photos/hero-hibachi-spread.webp">
+  <meta name="theme-color" content="#F2EAD8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1C1916" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css">
+  <link rel="stylesheet" href="styles.css?v=12">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Restaurant","name":"ICHIBAN Restaurant","telephone":"+1-802-540-1318",
+   "servesCuisine":["Rice noodle soup","Ramen","Hibachi","Sushi","Bubble tea"],
+   "address":{"@type":"PostalAddress","streetAddress":"156 N Winooski Ave","addressLocality":"Burlington","addressRegion":"VT","postalCode":"05401","addressCountry":"US"},
+   "openingHours":"Mo,Tu,Th,Fr,Sa,Su 16:30-02:00","hasMenu":"https://order.ichibanvt.com/","acceptsReservations":false}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <span class="sentinel" data-top-sentinel aria-hidden="true"></span>
+
+  <header class="nav" data-nav>
+    <div class="nav__inner wrap">
+      <a href="./" class="mark" aria-label="ICHIBAN, home">
+        <span class="mark__seal" aria-hidden="true">一番</span>
+        <span class="mark__word">ICHIBAN</span>
+      </a>
+      <nav class="nav__links" aria-label="Primary">
+        <a href="./#menu">Menu</a>
+        <a href="about.html">About</a>
+        <a href="visit.html" aria-current="page">Visit</a>
+      </nav>
+      <div class="nav__actions">
+        <span class="status" data-status-wrap><span data-status>Open late</span></span>
+        <a class="btn btn--primary" data-order href="https://order.ichibanvt.com/">Order pickup</a>
+        <button class="burger" type="button" data-burger aria-expanded="false" aria-controls="sheet" aria-label="Open menu"><i class="ph ph-list" aria-hidden="true"></i></button>
+      </div>
+    </div>
+  </header>
+  <div class="sheet" id="sheet" data-sheet hidden>
+    <img class="plate plate--sway" src="assets/plates/chili.webp" alt="" aria-hidden="true" style="--o:.18; width:260px; right:-60px; bottom:-40px; rotate:-12deg">
+    <a href="./#menu">Menu</a>
+    <a href="about.html">About</a>
+    <a href="visit.html">Visit</a>
+    <a class="btn btn--primary btn--lg" data-order href="https://order.ichibanvt.com/"><i class="ph ph-bag" aria-hidden="true"></i>Order pickup</a>
+    <div class="sheet__meta">
+      <span class="status" data-status-wrap><span data-status>Open late</span></span>
+      <a class="link" href="tel:+18025401318">(802) 540-1318</a>
+      <span>156 N Winooski Ave, Burlington</span>
+    </div>
+  </div>
+
+  <main id="main">
+    <header class="page-head">
+      <img class="plate plate--sway plate--slow" src="assets/plates/tea.webp" alt="" aria-hidden="true" style="--o:.26; width:clamp(200px,26vw,420px); right:-70px; top:-50px; rotate:-12deg">
+      <img class="plate plate--desk plate--drift" src="assets/plates/chili-pod.webp" alt="" aria-hidden="true" style="--o:.9; width:52px; right:34%; bottom:24px; rotate:28deg">
+      <div class="wrap page-head__inner">
+        <h1 class="h1 reveal">Open late, six nights a week.</h1>
+        <p class="lede reveal" style="--d:1"><span class="status" data-status-wrap style="font-size:1.1rem; color:var(--ink)"><span data-status>Open late</span></span></p>
+      </div>
+    </header>
+
+    <section class="visit-grid" aria-label="Hours and location">
+      <img class="plate plate--desk plate--drift plate--feather" src="assets/plates/ginger-root.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.18; width:300px; left:-100px; bottom:-40px; rotate:10deg">
+      <div class="wrap visit-grid__inner">
+        <div class="card reveal">
+          <h2 class="h3">Hours</h2>
+          <dl class="hours" data-hours></dl>
+          <p class="note">Holidays can shift things. If you're cutting it close, call first.</p>
+          <hr style="border:0; border-top:1px solid var(--line); margin:0">
+          <address class="addr">156 N Winooski Ave<br>Burlington, VT 05401</address>
+          <div class="card__actions" data-hide-dock>
+            <a class="btn btn--primary" data-order href="https://order.ichibanvt.com/"><i class="ph ph-bag" aria-hidden="true"></i>Order pickup</a>
+            <a class="btn btn--ghost" href="https://www.google.com/maps/dir/?api=1&amp;destination=156+N+Winooski+Ave+Burlington+VT+05401" target="_blank" rel="noopener"><i class="ph ph-navigation-arrow" aria-hidden="true"></i>Directions</a>
+            <a class="btn btn--ghost" href="tel:+18025401318"><i class="ph ph-phone" aria-hidden="true"></i>(802) 540-1318</a>
+          </div>
+        </div>
+        <div class="map reveal" style="--d:1">
+          <iframe title="Map showing Ichiban at 156 N Winooski Ave, Burlington" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            src="https://www.google.com/maps?q=ICHIBAN+Restaurant,+156+N+Winooski+Ave,+Burlington,+VT+05401&amp;z=16&amp;output=embed"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <section class="ways" aria-labelledby="ways-title">
+      <img class="plate plate--desk plate--sway plate--slow" src="assets/plates/anise.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.22; width:300px; left:-80px; bottom:-60px; rotate:10deg">
+      <div class="wrap ways__inner">
+        <h2 id="ways-title" class="h2 reveal">Eat here, take it home or have it brought.</h2>
+        <ul class="ways__list">
+          <li class="way reveal">
+            <span class="way__icon"><i class="ph ph-bowl-steam" aria-hidden="true"></i></span>
+            <h3>Dine in</h3>
+            <p>Grab a table in our small dining room. Green tea is on the house and we'll keep it topped up.</p>
+          </li>
+          <li class="way reveal" style="--d:1">
+            <span class="way__icon"><i class="ph ph-bag" aria-hidden="true"></i></span>
+            <h3>Pickup</h3>
+            <p>Order through <a class="link" data-order href="https://order.ichibanvt.com/">our own ordering page</a> and skip the line. It pulls from the same menu and prices you see on this site.</p>
+          </li>
+          <!-- TODO(owner): delivery apps inferred from customer reviews; confirm which ones you're on. -->
+          <li class="way reveal" style="--d:2">
+            <span class="way__icon"><i class="ph ph-moped" aria-hidden="true"></i></span>
+            <h3>Delivery</h3>
+            <p>You can also find us on DoorDash and Uber Eats.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="faq" aria-labelledby="faq-title">
+      <img class="plate plate--desk plate--drift" src="assets/plates/cumin.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.2; width:240px; right:-170px; top:40px; rotate:-8deg">
+      <img class="plate plate--desk plate--sway" src="assets/plates/rice.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.12; width:300px; left:-80px; bottom:-120px">
+      <div class="wrap faq__inner">
+        <h2 id="faq-title" class="h2 reveal">Good to know.</h2>
+        <div class="faq__list reveal" style="--d:1">
+          <details>
+            <summary>Are you really open until 2am?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Yes, every night except Wednesday. Doors open at 4:30pm and the kitchen runs until 2am.</p>
+          </details>
+          <details>
+            <summary>Do you have vegan options?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Yes. The vegan and vegetarian section includes original, tomato and mala spicy soups on a shiitake mushroom broth, plus General Tao's tofu. Vegetable versions of the ramen, udon, fried rice, hibachi and sushi rolls are on the menu too. Ask us which ones are fully vegan.</p>
+          </details>
+          <details>
+            <summary>Is anything gluten-free?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Some dishes are marked GF on the menu. If you have celiac disease or a serious allergy, tell us when you order and we'll walk you through what's safe for you.</p>
+          </details>
+          <details>
+            <summary>Can you fit a big group?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>The dining room is small, but we've seated big groups before. Call <a class="link" href="tel:+18025401318">(802) 540-1318</a> ahead so we can get ready.</p>
+          </details>
+          <details>
+            <summary>Where do I park?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>There's street parking along North Winooski Avenue and on the side streets around us.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot" data-hide-dock>
+    <img class="plate plate--desk" src="assets/plates/rice.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.14; width:420px; right:-60px; bottom:-160px; rotate:-6deg">
+    <div class="wrap foot__inner">
+      <div class="foot__col">
+        <a href="./" class="mark mark--foot" aria-label="ICHIBAN, home">
+          <span class="mark__seal" aria-hidden="true">一番</span>
+          <span class="mark__word">ICHIBAN</span>
+        </a>
+        <p style="opacity:.8; margin-top:12px">Rice noodle soup, ramen, hibachi, sushi and bubble tea in Burlington's Old North End.</p>
+      </div>
+      <div class="foot__col">
+        <h2>Find us</h2>
+        <span>156 N Winooski Ave<br>Burlington, VT 05401</span>
+        <a href="tel:+18025401318">(802) 540-1318</a>
+        <a href="https://www.google.com/maps/dir/?api=1&amp;destination=156+N+Winooski+Ave+Burlington+VT+05401" target="_blank" rel="noopener">Directions</a>
+      </div>
+      <div class="foot__col">
+        <h2>Hours</h2>
+        <span class="foot__hours">Mon, Tue, Thu to Sun<br>4:30pm to 2am</span>
+        <span class="foot__hours">Closed Wednesday</span>
+      </div>
+      <div class="foot__col">
+        <h2>Explore</h2>
+        <a href="./#menu">Menu</a>
+        <a href="about.html">About</a>
+        <a href="visit.html">Visit</a>
+        <a data-order href="https://order.ichibanvt.com/">Order pickup</a>
+      </div>
+      <p class="foot__credit">Botanical plates from Köhler's <i>Medizinal-Pflanzen</i> (1887), Blanco's <i>Flora de Filipinas</i> (1880s), Ypey and Turpin. All in the public domain.</p>
+    </div>
+  </footer>
+
+  <div class="dock" data-dock>
+    <a class="dock__call" href="tel:+18025401318" aria-label="Call Ichiban"><i class="ph ph-phone" aria-hidden="true"></i></a>
+    <a class="btn btn--primary dock__order" data-order href="https://order.ichibanvt.com/"><i class="ph ph-bag" aria-hidden="true"></i>Order pickup</a>
+  </div>
+
+  <script src="main.js?v=12" type="module"></script>
+</body>
+</html>

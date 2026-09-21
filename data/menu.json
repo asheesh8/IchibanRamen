@@ -1,0 +1,1731 @@
+{
+ "source": "https://order.ichibanvt.com/",
+ "syncedAt": "2026-09-21T11:03:57.471Z",
+ "categories": [
+  {
+   "name": "Appetizer",
+   "nameZh": "头台",
+   "items": [
+    {
+     "name": "Edamame",
+     "nameZh": "毛豆",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spicy Edamame",
+     "nameZh": "辣毛豆",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Seaweed Salad",
+     "nameZh": "海苔沙拉",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Gyoza (S)",
+     "nameZh": "饺子(小)",
+     "note": "dumplings",
+     "price": 8,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Gyoza (L)",
+     "nameZh": "饺子(大)",
+     "note": "dumplings",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Fried Spring Roll (4)",
+     "nameZh": "炸春卷(4)",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Crab Rangoon",
+     "nameZh": "蟹角",
+     "note": "",
+     "price": 8,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Salt and Pepper Popcorn Chicken",
+     "nameZh": "盐酥鸡",
+     "note": "",
+     "price": 9.45,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Scallion Pancake",
+     "nameZh": "葱油饼",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Takoyaki (6)",
+     "nameZh": "章鱼小丸子(6)",
+     "note": "6pc. Steamed",
+     "price": 9.95,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shumai (6)",
+     "nameZh": "烧卖(6)",
+     "note": "6pc. Steamed",
+     "price": 8,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Fried Calamari",
+     "nameZh": "炸鱿鱼",
+     "note": "",
+     "price": 9.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Fresh Spring Roll",
+     "nameZh": "越南春卷",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Avocado Salad",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Chicken Skewers",
+     "nameZh": "鸡串",
+     "note": "",
+     "price": 5.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Taiwan Sausage",
+     "nameZh": "台湾香肠",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Hibachi Express",
+   "nameZh": "铁板",
+   "items": [
+    {
+     "name": "Hibachi Veg",
+     "nameZh": "铁板素菜",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hibachi Chicken",
+     "nameZh": "铁板鸡肉",
+     "note": "",
+     "price": 23.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hibachi Steak",
+     "nameZh": "铁板牛排",
+     "note": "",
+     "price": 25.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hibachi Shrimp",
+     "nameZh": "铁板大虾",
+     "note": "",
+     "price": 24.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hibachi Salmon",
+     "nameZh": "铁板三文鱼",
+     "note": "",
+     "price": 25.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hibachi Combo",
+     "nameZh": "铁板二组合",
+     "note": "Choose of Any two from chicken,steak or shrimp ",
+     "price": 26.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shotgun Dinner",
+     "nameZh": "铁板三鲜",
+     "note": "Triple of proteins with Chicken, Steak & Shrimp",
+     "price": 30,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Ramen",
+   "nameZh": "拉面",
+   "items": [
+    {
+     "name": "Tonkotsu Ramen",
+     "nameZh": "豚骨拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef Ramen",
+     "nameZh": "肥牛拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Kimchi Ramen",
+     "nameZh": "泡菜拉面",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Minced Pork Ramen",
+     "nameZh": "肉沫拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Chicken Ramen",
+     "nameZh": "鸡肉拉面",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Tripe Ramen",
+     "nameZh": "牛肚拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Shank Ramen",
+     "nameZh": "牛腱拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Ramen w. Tendon",
+     "nameZh": "牛腩拉面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Ramen w/o Tendon",
+     "nameZh": "牛腩拉面(无筋牛腩)",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shrimp Ramen",
+     "nameZh": "虾拉面",
+     "note": "",
+     "price": 18,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable Ramen",
+     "nameZh": "蔬菜拉面",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Seafood Ramen",
+     "nameZh": "海鲜拉面",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Udon",
+   "nameZh": "乌冬面",
+   "items": [
+    {
+     "name": "Tonkotsu Udon",
+     "nameZh": "豚骨乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef Udon",
+     "nameZh": "肥牛乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Kimchi Udon",
+     "nameZh": "泡菜乌冬",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Minced Pork Udon",
+     "nameZh": "肉沫乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Chicken Udon",
+     "nameZh": "鸡肉乌冬",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Tripe Udon",
+     "nameZh": "牛肚乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Shank Udon",
+     "nameZh": "牛腱乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Udon w. Tendon",
+     "nameZh": "牛腩乌冬",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Udon w/o Tendon",
+     "nameZh": "牛腩乌冬(无筋牛腩)",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shrimp Udon",
+     "nameZh": "虾乌冬",
+     "note": "",
+     "price": 18,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable Udon",
+     "nameZh": "蔬菜乌冬",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Seafood Udon",
+     "nameZh": "海鲜乌冬",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Fish Maw & Chicken Stock Soup",
+   "nameZh": "花胶鸡",
+   "items": [
+    {
+     "name": "Fish Maw & Chicken Stock Soup (With Chicken. GF)",
+     "nameZh": "花胶鸡米粉 (含鸡肉)",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Fish Maw & Chicken Stock Soup (Without Chicken. GF)",
+     "nameZh": "花胶鸡米粉 (不含鸡肉)",
+     "note": "",
+     "price": 14,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Original Bone Soup",
+   "nameZh": "原味鸡汤",
+   "items": [
+    {
+     "name": "Chicken (GF) Original Bone Soup",
+     "nameZh": "原味鸡片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fish (GF) Original Bone Soup",
+     "nameZh": "原味鱼片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Original Bone Soup",
+     "nameZh": "原味肥牛米粉",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w. Tendon Original Bone Soup",
+     "nameZh": "原味牛腩米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w/o Tendon Original Bone Soup",
+     "nameZh": "原味牛腩米粉(无筋牛腩)",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Shank Original Bone Soup",
+     "nameZh": "原味牛腱米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Tomato Soup",
+   "nameZh": "番茄汤",
+   "items": [
+    {
+     "name": "Chicken (GF) Tomato Soup",
+     "nameZh": "番茄鸡片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fish (GF) Tomato Soup",
+     "nameZh": "番茄鱼片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Tomato Soup",
+     "nameZh": "番茄肥牛米粉",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w Tendon Tomato Soup",
+     "nameZh": "番茄牛腩米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w/o Tendon Tomato Soup",
+     "nameZh": "番茄牛腩米粉 (无筋牛腩)",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Shank Tomato Soup",
+     "nameZh": "番茄牛腱米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Mala Spicy Soup",
+   "nameZh": "麻辣汤",
+   "items": [
+    {
+     "name": "Chicken (GF) Mala Spicy Soup",
+     "nameZh": "麻辣鸡片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fish (GF) Mala Spicy Soup",
+     "nameZh": "麻辣鱼片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Mala Spicy Soup",
+     "nameZh": "麻辣肥牛米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w Tendon Mala Spicy Soup",
+     "nameZh": "麻辣牛腩米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w/o Tendon Mala Spicy Soup",
+     "nameZh": "麻辣牛腩米粉 (无筋牛腩)",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Tripe Mala Spicy Soup",
+     "nameZh": "麻辣牛肚米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable (GF) Mala Spicy Soup",
+     "nameZh": "麻辣素菜米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Golden Spicy Soup",
+   "nameZh": "金汤",
+   "items": [
+    {
+     "name": "Chicken (GF) Golden Spicy Soup",
+     "nameZh": "金汤鸡片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fish (GF) Golden Spicy Soup",
+     "nameZh": "金汤鱼片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Golden Spicy Soup",
+     "nameZh": "金汤肥牛米粉",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Golden Spicy Soup",
+     "nameZh": "金汤牛腩米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable (GF) Golden Spicy Soup",
+     "nameZh": "金汤素菜米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Tom Yum Soup",
+   "nameZh": "冬阴功",
+   "items": [
+    {
+     "name": "Seafood Tom Yum Soup",
+     "nameZh": "冬阴功海鲜米粉",
+     "note": "Sliced Fish and Shrimp. GF",
+     "price": 18,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Chicken (GF) Tom Yum Soup",
+     "nameZh": "冬阴鸡片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Tom Yum Soup",
+     "nameZh": "冬阴功肥牛米粉",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable (GF) Tom Yum Soup",
+     "nameZh": "冬阴功素菜米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Pickled Mustard Greens Soup",
+   "nameZh": "酸菜汤",
+   "items": [
+    {
+     "name": "Sliced Fish (GF) Pickled Mustard Greens Soup",
+     "nameZh": "酸菜鱼片米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket Pickled Mustard Greens Soup",
+     "nameZh": "酸菜牛腩米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Tripe Pickled Mustard Greens Soup",
+     "nameZh": "酸菜牛肚米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sliced Fatty Beef (GF) Pickled Mustard Greens Soup",
+     "nameZh": "酸菜肥牛米粉",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable (GF) Pickled Mustard Greens Soup",
+     "nameZh": "酸菜素菜米粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Noodles Dry Tossed Rice",
+   "nameZh": "拌粉",
+   "items": [
+    {
+     "name": "Minced Pork Noodles Dry Tossed Rice",
+     "nameZh": "肉末拌粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w Tendon Noodles Dry Tossed Rice",
+     "nameZh": "牛腩拌粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Brisket w/o Tendon Noodles Dry Tossed Rice",
+     "nameZh": "牛腩拌粉 (无筋牛腩)",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Tripe Noodles Dry Tossed Rice",
+     "nameZh": "牛肚拌粉",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Shank Noodles Dry Tossed Rice",
+     "nameZh": "牛腱拌粉",
+     "note": "",
+     "price": 14,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Assorted Meat Noodles Dry Tossed Rice",
+     "nameZh": "全家福拌粉",
+     "note": "",
+     "price": 16.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Seafood Noodles Dry Tossed Rice",
+     "nameZh": "海鲜拌粉",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Fried Rice",
+   "nameZh": "炒饭",
+   "items": [
+    {
+     "name": "Chicken Fried Rice",
+     "nameZh": "鸡肉炒饭",
+     "note": "",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Fried Rice",
+     "nameZh": "牛肉炒饭",
+     "note": "",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shrimp Fried Rice",
+     "nameZh": "虾炒饭",
+     "note": "",
+     "price": 15,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vegetable Fried Rice",
+     "nameZh": "蔬菜炒饭",
+     "note": "",
+     "price": 11,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "House Fried Rice",
+     "nameZh": "本楼炒饭",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Vegan & Vegetarian",
+   "nameZh": "素",
+   "items": [
+    {
+     "name": "General Tao’s ToFu",
+     "nameZh": "左宗豆腐",
+     "note": "",
+     "price": 13.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Original Soup",
+     "nameZh": "原味素菜",
+     "note": "(Vegan Broth) Your choice of Ramen noodles, Udon noodles or Rice noodles.",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Tomato Soup",
+     "nameZh": "番茄素菜",
+     "note": "(Vegan Broth) Your choice of Ramen noodles, Udon noodles or Rice noodles.",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Mala Spicy Soup",
+     "nameZh": "麻辣素菜",
+     "note": "(Vegan Broth) Your choice of Ramen noodles, Udon noodles or Rice noodles.",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Soda",
+   "nameZh": "饮料",
+   "items": [
+    {
+     "name": "Ginger Ale",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sprite",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Diet Coke",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Bottled Water",
+     "nameZh": "",
+     "note": "",
+     "price": 1.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Brick Iced Tea",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Coke",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Fanta",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Ramune",
+     "nameZh": "",
+     "note": "Japanese soda",
+     "price": 3.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shnny D",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Root Beer",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Coca-Cola zero sugar",
+     "nameZh": "",
+     "note": "",
+     "price": 2.25,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Bubble & Fruit Tea",
+   "nameZh": "",
+   "items": [
+    {
+     "name": "Peach Oolong Tea",
+     "nameZh": "蜜桃乌龙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Grapefruit Jasmine Tea",
+     "nameZh": "西柚茉莉",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Crazy Lemon Tea",
+     "nameZh": "鸭屎香柠檬茶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Thai Handmade Lemon Tea",
+     "nameZh": "泰式手打柠檬茶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Hand-Brewed Lemon Black Tea",
+     "nameZh": "手打柠檬茶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Pink Lime Tea",
+     "nameZh": "粉荔青柠",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Grape Jasmine Green Tea",
+     "nameZh": "多肉葡萄",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Pink Lychee Jasmine Green Tea",
+     "nameZh": "满杯粉荔",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Coconut Refresher",
+     "nameZh": "清补凉椰椰",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Passion Fruit Double Cannon",
+     "nameZh": "百香果双响炮",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Peach Lover",
+     "nameZh": "桃你喜欢",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Black Diamond Milk Tea",
+     "nameZh": "黑钻奶茶",
+     "note": "",
+     "price": 7.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Pudding Milk Tea",
+     "nameZh": "布丁奶茶",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Black Diamond Milk Green",
+     "nameZh": "黑钻奶绿",
+     "note": "",
+     "price": 7.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Pudding Milk Green",
+     "nameZh": "布丁奶绿",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Mango Pomelo Sago",
+     "nameZh": "杨枝甘露",
+     "note": "",
+     "price": 7.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Taro Milk Tea",
+     "nameZh": "香芋奶茶",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "King Taro Milk Tea",
+     "nameZh": "国王香芋奶茶",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Original Boba",
+     "nameZh": "原味奶茶",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Yogurt",
+   "nameZh": "酸奶",
+   "items": [
+    {
+     "name": "Original Yogurt",
+     "nameZh": "原味酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Strawberry Yogurt",
+     "nameZh": "草莓酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Lychee Yogurt",
+     "nameZh": "粉荔酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Jasmine and Grapefruit Yogurt",
+     "nameZh": "茉香西柚酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Mango Yogurt",
+     "nameZh": "芒果酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Peach Yogurt",
+     "nameZh": "桃子酸奶",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Stir Fry Udon",
+   "nameZh": "炒乌冬",
+   "items": [
+    {
+     "name": "Chicken Stir Fry Udon",
+     "nameZh": "鸡炒乌冬面",
+     "note": "",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Beef Stir Fry Udon",
+     "nameZh": "牛炒乌冬面",
+     "note": "",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shrimp Stir Fry Udon",
+     "nameZh": "虾炒乌冬面",
+     "note": "",
+     "price": 14,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Veggies Stir Fry Udon",
+     "nameZh": "菜炒乌冬面",
+     "note": "",
+     "price": 13,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "House Special Stir Fry Udon",
+     "nameZh": "本楼炒乌冬面",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "House Special",
+   "nameZh": "本楼推荐",
+   "items": [
+    {
+     "name": "General Tso’s Chicken",
+     "nameZh": "左宗鸡",
+     "note": "",
+     "price": 17,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Teriyaki Salmon",
+     "nameZh": "照烧三文鱼",
+     "note": "",
+     "price": 22,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Mongolian Beef",
+     "nameZh": "蒙古牛",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Slusher",
+   "nameZh": "冰沙",
+   "items": [
+    {
+     "name": "Snow Grape Slush",
+     "nameZh": "青提冰沙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Snow Strawberry Slush",
+     "nameZh": "草莓冰沙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Snow Peach Slush",
+     "nameZh": "水蜜桃冰沙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Snow Peach Slush",
+     "nameZh": "水蜜桃冰沙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Snow Passion Fruit Slush",
+     "nameZh": "百香果冰沙",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Dessert",
+   "nameZh": "",
+   "items": [
+    {
+     "name": "Brown Sugar Rice Cake",
+     "nameZh": "红糖糍粑",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Pumpkin Cake",
+     "nameZh": "南瓜饼",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Mochi",
+     "nameZh": "",
+     "note": "",
+     "price": 5.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  },
+  {
+   "name": "Ichiban Sushi",
+   "nameZh": "",
+   "items": [
+    {
+     "name": "California Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vege Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Avocado Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Tuna Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Tuna Avocado Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Salmon Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Salmon Avocado Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Eel Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Eel Avocado Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Eel Cucumber Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Shrimp Tempura Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 8,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Sweet Potato Tempura Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 6.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spider Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 10.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Out of Control Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 8.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Ichiban Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 8,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spicy Tuna Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spicy Salmon Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spicy Crab Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Rainbow Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 14,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Dragon Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 14,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Philly Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Crispy Chunchy Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 7.5,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Banzai Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Green Nontain Roll",
+     "nameZh": "",
+     "note": "",
+     "price": 16,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Vege Maki Combo",
+     "nameZh": "",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Spicy Maki Combo",
+     "nameZh": "",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    },
+    {
+     "name": "Roll Maki Combo",
+     "nameZh": "",
+     "note": "",
+     "price": 20,
+     "spicy": 0,
+     "glutenFree": false,
+     "isNew": false
+    }
+   ]
+  }
+ ]
+}

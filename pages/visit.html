@@ -1,0 +1,88 @@
+
+  <main id="main">
+    <header class="page-head">
+      <img class="plate plate--sway plate--slow" src="assets/plates/tea.webp" alt="" aria-hidden="true" style="--o:.26; width:clamp(200px,26vw,420px); right:-70px; top:-50px; rotate:-12deg">
+      <img class="plate plate--desk plate--drift" src="assets/plates/chili-pod.webp" alt="" aria-hidden="true" style="--o:.9; width:52px; right:34%; bottom:24px; rotate:28deg">
+      <div class="wrap page-head__inner">
+        <h1 class="h1 reveal">Open late, six nights a week.</h1>
+        <p class="lede reveal" style="--d:1"><span class="status" data-status-wrap style="font-size:1.1rem; color:var(--ink)"><span data-status>Open late</span></span></p>
+      </div>
+    </header>
+
+    <section class="visit-grid" aria-label="Hours and location">
+      <img class="plate plate--desk plate--drift plate--feather" src="assets/plates/ginger-root.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.18; width:300px; left:-100px; bottom:-40px; rotate:10deg">
+      <div class="wrap visit-grid__inner">
+        <div class="card reveal">
+          <h2 class="h3">Hours</h2>
+          <dl class="hours" data-hours></dl>
+          <p class="note">Holidays can shift things. If you're cutting it close, call first.</p>
+          <hr style="border:0; border-top:1px solid var(--line); margin:0">
+          <address class="addr">156 N Winooski Ave<br>Burlington, VT 05401</address>
+          <div class="card__actions" data-hide-dock>
+            <a class="btn btn--primary" data-order href="https://order.ichibanvt.com/"><i class="ph ph-bag" aria-hidden="true"></i>Order pickup</a>
+            <a class="btn btn--ghost" href="https://www.google.com/maps/dir/?api=1&amp;destination=156+N+Winooski+Ave+Burlington+VT+05401" target="_blank" rel="noopener"><i class="ph ph-navigation-arrow" aria-hidden="true"></i>Directions</a>
+            <a class="btn btn--ghost" href="tel:+18025401318"><i class="ph ph-phone" aria-hidden="true"></i>(802) 540-1318</a>
+          </div>
+        </div>
+        <div class="map reveal" style="--d:1">
+          <iframe title="Map showing Ichiban at 156 N Winooski Ave, Burlington" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            src="https://www.google.com/maps?q=ICHIBAN+Restaurant,+156+N+Winooski+Ave,+Burlington,+VT+05401&amp;z=16&amp;output=embed"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <section class="ways" aria-labelledby="ways-title">
+      <img class="plate plate--desk plate--sway plate--slow" src="assets/plates/anise.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.22; width:300px; left:-80px; bottom:-60px; rotate:10deg">
+      <div class="wrap ways__inner">
+        <h2 id="ways-title" class="h2 reveal">Eat here, take it home or have it brought.</h2>
+        <ul class="ways__list">
+          <li class="way reveal">
+            <span class="way__icon"><i class="ph ph-bowl-steam" aria-hidden="true"></i></span>
+            <h3>Dine in</h3>
+            <p>Grab a table in our small dining room. Green tea is on the house and we'll keep it topped up.</p>
+          </li>
+          <li class="way reveal" style="--d:1">
+            <span class="way__icon"><i class="ph ph-bag" aria-hidden="true"></i></span>
+            <h3>Pickup</h3>
+            <p>Order through <a class="link" data-order href="https://order.ichibanvt.com/">our own ordering page</a> and skip the line. It pulls from the same menu and prices you see on this site.</p>
+          </li>
+          <!-- TODO(owner): delivery apps inferred from customer reviews; confirm which ones you're on. -->
+          <li class="way reveal" style="--d:2">
+            <span class="way__icon"><i class="ph ph-moped" aria-hidden="true"></i></span>
+            <h3>Delivery</h3>
+            <p>You can also find us on DoorDash and Uber Eats.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="faq" aria-labelledby="faq-title">
+      <img class="plate plate--desk plate--drift" src="assets/plates/cumin.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.2; width:240px; right:-170px; top:40px; rotate:-8deg">
+      <img class="plate plate--desk plate--sway" src="assets/plates/rice.webp" alt="" aria-hidden="true" loading="lazy" style="--o:.12; width:300px; left:-80px; bottom:-120px">
+      <div class="wrap faq__inner">
+        <h2 id="faq-title" class="h2 reveal">Good to know.</h2>
+        <div class="faq__list reveal" style="--d:1">
+          <details>
+            <summary>Are you really open until 2am?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Yes, every night except Wednesday. Doors open at 4:30pm and the kitchen runs until 2am.</p>
+          </details>
+          <details>
+            <summary>Do you have vegan options?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Yes. The vegan and vegetarian section includes original, tomato and mala spicy soups on a shiitake mushroom broth, plus General Tao's tofu. Vegetable versions of the ramen, udon, fried rice, hibachi and sushi rolls are on the menu too. Ask us which ones are fully vegan.</p>
+          </details>
+          <details>
+            <summary>Is anything gluten-free?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>Some dishes are marked GF on the menu. If you have celiac disease or a serious allergy, tell us when you order and we'll walk you through what's safe for you.</p>
+          </details>
+          <details>
+            <summary>Can you fit a big group?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>The dining room is small, but we've seated big groups before. Call <a class="link" href="tel:+18025401318">(802) 540-1318</a> ahead so we can get ready.</p>
+          </details>
+          <details>
+            <summary>Where do I park?<i class="ph ph-plus" aria-hidden="true"></i></summary>
+            <p>There's street parking along North Winooski Avenue and on the side streets around us.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
