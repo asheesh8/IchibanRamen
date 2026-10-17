@@ -2,6 +2,8 @@
 
 Site for ICHIBAN, 156 N Winooski Ave, Burlington VT. Plain HTML/CSS/JS, deployed on Vercel with no build step.
 
+**Live:** https://ichiban-ramen-six.vercel.app · No environment variables. Locally (`npm run dev`, a plain Python static server) `/api/menu` does not exist, so the page falls back to `data/menu.json`.
+
 ## How it fits together
 
 - `index.html`, `about.html`, `visit.html` are generated. Edit the page bodies in `pages/`, then run `python3 scripts/build-pages.py`. The shared `<head>`, nav and footer live in that script.
